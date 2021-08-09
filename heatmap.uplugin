@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"VersionName": "2021.8.7",
+	"VersionName": "2021.8.9",
  	"FriendlyName": "Heat Map",
 	"Description": "heatmap generator",
 	"Category": "Decal",
@@ -13,6 +13,6 @@
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
-	"Installed": true,
+	"Installed": false,
 	"Modules": []
 }
